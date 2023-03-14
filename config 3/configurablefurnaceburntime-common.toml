@@ -1,0 +1,6 @@
+
+[General]
+	#How much the fuel burn time should be modified. It's calculated by default burn time * burnTimeModifier. For example: sticks are by default 100 ticks (5 seconds). A burnTimeModifier of 2.0 makes it 200 ticks (10 seconds).
+	#Range: 0.0 ~ 1000.0
+	burnTimeModifier = 1.5
+
