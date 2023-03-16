@@ -1,0 +1,247 @@
+Feature Mods:
+
+Additional Structures: Adds around 150 small structures that give the game more life. These will generate in both the end and the overworld.
+AI Improvements: Simplifies mob AI and should improve performance.
+Alex's Delight: Adds compatability between Alex's Mobs and Farmer's Delight.
+Alex's Mobs: Adds ton of new mobs that you can find in your world with actually useful or interesting drops.
+Allurement: Adds 6 new enchantments that have a particularly Vanilla-like feel.
+Anvil Restoration: Adds the ability to repair an anvil with an iron ingot, or damage it with obsidian.
+AppleSkin: Adds food value information to tooltips and a visualization of saturation and exhaustion to the hunger bar.
+Archer's Paradox: Adds around 15 new arrows, all with their own special abilities and effects. (Not like potion-tipped arrows)
+Armor Tougness Bar: Adds the armor toughness bar, which will show you the amount of armor toughness you have.
+Artifacts: Adds around 15 new items which can grant special abilities when worn in a Cuios slot.
+AttributeFix: Significantly increases the caps of certain attributes to allow mods to work as they were intended.
+Autumnity: Adds some new mobs, blocks, foods, and biomes related to autumn.
+Awesome Dungeons (Original, Ocean, Nether, and End Editions): Adds tons of new dungeons to explore, all with vanilla blocks.
+Bedspreads: Allows you to place banners on beds to add extra personality to your bedroom.
+Better Advancements: Tries to improve the UI for the advancements screen.
+Better Beacon Placement: Allows you to easily place and move beacon bases.
+Better Fps: Improves chunk rendering system, therefore improving FPS.
+Better Invisibility: Improves Invisibility to make it more effective.
+Better Loading Screen: Aims to make the Forge loading screen easier to read.
+Better Mods Button: Adds back the mods button with some improvements.
+Better Spawner Control: Allows you to completely disable a spawner by placing torches on all its surfaces.
+Better Than Mending: Improves the mending enchantment.
+Better Third Person: Makes a lot of quality of life changes to the Third Person mode.
+Better Villages: Improves the layout of villages to make them more interesting and immersive.
+Better Shields: Adds more levels of shields.
+BetterF3: Tries to make the F3 menu easier to read.
+Blue Flame Burning: Makes the soul flame actually blue.
+Boatload: Adds a chest boat, a furnace boat, a 4 person boat, and allows you to put banners on boats as well.
+Bottle Your Xp: Allows you to place you xp into bottles which turns it into a bottle o' enchanting.
+Brutal Bosses: Adds a ton of new bosses to defeat. These drop a lot of xp and add some extra challenge to your world.
+Buzzier Bees: Expands upon the 1.15 update adding in new building blocks, items, flowers, and much more.
+Bygone Nether: Adds some new structures and mobs that add to the lore of the Nether.
+Cake Slices: Allows you to slice up your cake to make it a more viable food option.
+Carry On: Allows you to pick up mobs and tile entities and move them around.
+Cherished Worlds: Allows you to star your favorite worlds, which prevents you from deleting them accidentally.
+Chisels & Bits: Allows you to remove single pixels from a block and place them elsewhere.
+Chunk Loaders: Adds the 4 types of chunk loader which can load anywhere from 1 chunk to a 7x7 group of them.
+CleanCut: Lets the sword swing through blocks that are replacable or have no hitbox, such as grass.
+Clickable Advancements: Allows you to click on advancements in chat to bring them up in the advancements menu.
+Client Tweaks: Allows you to stop certain items from rendering when playing, mainly just a quality of life mod.
+Clumps: Groups xp orbs together to reduce lag.
+Colytra: Allows you to combine you chestplate and elytra so you can wear both at the same time.
+Comforts: Adds a sleeping bag and hammock, which allow you to sleep without setting your spawn, and sleep through the day respectively.
+Conduits Prevent Drowned: This mod prevents Drowned from spawning in a 20 block radius around a conduit and players with the conduit effect.
+Config Menus for Forge: Automatically generates an in-game config menu for every .toml file as long as it is in the Forge format.
+Controlling: Adds a search bar to the keybinds menu for easier configuration.
+Corail Woodcutter: Adds a stonecutter, but for wood.
+Corpse: Adds a corpse which will be placed where you die, hold your items, and not despawn. However, other players can still steal your items from your corpse.
+Cosmetic Armor Reworked: Adds a way to have a set of armor, purely for decoration, at the same time as other armor.
+Crafting Automat: Adds an Auto Crafting system to the game.
+Crying Portals: Allows you to make Nether Portals with Crying Obsidian.
+Cycle Paintings: Allows you to switch paintings by simply right-clicking on it with a painting in hand.
+Dark Paintings: Adds new paintings to the game.
+Decorative Blocks: Adds some new decorative blocks, some of which actually have functions in the world.
+Delightful: Adds compatability between Farmer's Delight and a lot of other mods.
+Diagonal Fences: Allows fences to connect diagonally. (Some won't connect to others, but all fences of the same type should connect)
+Discerning Furnace: Furnaces now only let in items that can actually be smelted.
+Distant Horizons: Allows you to use high render distances without losing a ton of FPS.
+Double Slabs: Allows you to place 2 different types of slabs on top of each other and break them independently.
+Dungeon Crawl: Adds gigantic dungeons to explore and conquer.
+Dungeons Enhanced: Adds some new structures to find and gather loot from.
+Dungeons Plus: Adds yet more dungeons to explore with new weapons to find.
+Easy Elytra Takeoff: Allows you to use a rocket to take off without having to be falling.
+Easy Shulker Boxes: Allows you to see the contents of shulker boxes and put stuff in them without placing them.
+Eating Animations: Adds animations to most foods when eating them.
+Edibles: Allows you to eat certain potion ingredients and gain their respective status effect for a short amount of time.
+Effect Tooltips: Lets mods add a description to their effects.
+Effective: Adds new visual effects related to water.
+Enchanting Commands: Improves the enchanting command to make it more useful.
+Enchanting Infuser: Adds a new way to enchant your items that is more expensive, but more efficient.
+End Remastered: Adds new eyes of ender that you have to find in order to reach The End.
+End's Delight: Adds food that you might find in The End.
+Enhanced Celestials: Adds two new lunar events.
+Ensorcellation: Adds some new enchantments to the game.
+Every Compat: Completes unfinished wood sets for mods like quark and supplimentaries.
+Extended Bone Meal: Allows you to use bonemeal on stuff like sugar cane and cactus.
+Farmer's Delight: Adds new foods and methods of cooking.
+FastSuite: Improves the recipe system for minecraft to enchance performance.
+FindMe: Lets you search for items in nearby inventories.
+Fire Spread Tweaks: Burning entities now set the world on fire.
+Fixed Anvil Repair Cost: It now costs the same to repair your tools and weapons each time, rather than increasing when you have a lot of enchantments.
+Flower Seeds: Adds seeds for flowers so you can grow new ones.
+Four Stacks Core: Adds structures, texture changes, and crafting recipes that tie together all the mods in this pack.
+FPS Reducer: Reduces memory usage when Minecraft is in the background.
+Friendly Fire: Makes tweaks to the Friendly Fire gamerule.
+Furnace Recycle: Lets you smelt more items back into their original materials.
+Goblin Traders: Adds some new traders to the game which will appear in caves and in the Nether.
+Golden Hopper: Adds a golden hopper which acts as an item filter.
+Guard Villagers: Allows villagers to become guards which will fight to protect their village.
+Hunter Illager: Adds some new Hunters and a structure to the game to make exploration a bit more interesting.
+Illagers Wear Armor: Read the title :)
+Immersive Weathering: Makes it feel as if time is actually passing in game by adding things such as fallen leaf piles and rusting iron.
+Incendium: Improves the Nether by adding a few biomes and structures.
+Infinite Trading: Prevents villagers (not wandering traders or goblins) from locking their trades.
+Inventory HUD+: Allows you to see certain parts of your inventory, and is extremely customisable.
+Inventory Totem: Allows the Totem of Undying and Void Totem to work from inside your inventory.
+Iron Bookshelves: Adds some new bookshelves that provide and increased enchanting level in the enchanting table.
+Iron Bows: Adds more powerful bows which also have more durability.
+Iron Chests: Adds some bigger chests.
+Iron Fishing Rods: Allows you to upgrade you fishing rod.
+Jade: Gives you information on blocks or entities you're looking at.
+Just Enough Enchantments: Adds some new enchantments to the game.
+Just Enough Items: Allows you to see the recipes of every item in the game.
+Large Meals: Adds some new meal-like foods to restore a lot of health.
+Lazy DFU: Speeds up the load time for Minecraft.
+Leave My Bars Alone: When riding a horse, all the bars will remain the same. The jump bar will replace the xp bar only when jumping.
+Limited Chunkloading: Only allows chunks to be loaded by chunk loaders for 3 minutes after a player has left the game, reducing lag for other players on the server.
+Macaw's Paintings: Adds more paintings to the game.
+Rubidium Extras: Adds some more features for Rubidium.
+Majrusz's Enchantments: Adds some iseful enchantemnts to play around with.
+MmmMmmMmmMmm: Adds a target dummy to test your weapons on. YOu can even put armor on it, which won't lose durability.
+Mooshroom Tweaks: Adds a rare chance for a brown mooshroom to spawn in place of a red one.
+More Babies: Adds more babies variants of certain mobs.
+More Powerful Game Rules: Adds some new gamerules to help you better configure your gaming experience.
+More Villager Trades: Again, read the title.
+More Villagers: Adds new types of villagers to trade with.
+More Zombie Villagers: Allows zombie villagers to replace normal zombies when spawning.
+Mounted Pearl: When you throw an ender pearl and are riding something, the thing you are riding will come with you.
+Mouse Tweaks: Allows more usage of the mouse in the inventory by increaseing the amount of things you can do with it.
+Moog's Voyager Structures: Adds more structures to find.
+Nature's Compass: Allows you to search for biomes.
+Neko's Enchanted Books: Adds a unique texture to *most* enchanted books in the game.
+Nether's Delight: Adds food to make and find in the Nether.
+NetherPortalFix: Makes sure that Nether portals connect correctly.
+New Slabs, Stairs & Walls: Adds more varieties of slabs, stairs, and walls.
+No Hostiles Around Campfire: Hostile mobs will no longer spawn in a 20 block radius around a non-soul campfire.
+No More Piglin Portal Spawning: Zombie Piglins will no longer spawn in Nether Portals.
+Not Enough Animations: Brings some first person animations (like eating) to the third person.
+Not Enough Crashes: WHen the game crashes, you will *ususally* be sent to the title screen instead of closing the game, and you will receive a description of what happened and a possible fix.
+Notes: Allows you to take notes in game and displacy them while playing.
+Nyf's Spiders: Improves the spider's model and AI to make them more terrifying.
+OpenBlocks Elevator: Adds an elevator block to the game to allow you to travel quickly. (Must be less than 48 blocks.)
+Overloaded Armor Bar: Allows for better customisation of the armor bar.
+Player Hopper: Adds a hopper which allows you to remove items from a player's inventory.
+Plus The End: Improves the end by adding new blocks and making it feel more alive.
+Polymorph: Adds a button to switch between any conflicting recipes.
+Precise Block Placing: Allows you to place blocks quicker.
+Quark: Adds a plethera of random enhancements. Read more here > https://quarkmod.net/#features
+Quick Cure: Greatly decreases the time taken to cure a zombie villager.
+Radium: Makes general improvements to a number of Minecraft systems.
+Radon: Makes improvements to Minecraft's lighting system, and is a port of the Fabric mod, Phosphor.
+Realistic Sleep: Causes time to actually pass when sleeping. Furnaces will work, mobs will move, effects will tick down, and much more.
+Repurposed Structures: Adds more varieties of Vanilla structures such as an icy pillager outpost and jungle village.
+rerereSkillable: Adds a skill system to Minecraft, forcing you to level up with xp before being able to use certain items or blocks.
+RevampedWolf: Adds wolf armor to allow you to better protect your companions.
+Rubidium: Makes improvements to the game's rendering system, greatly boosting FPS.
+Savage & Ravage: Expands upon the 1.14 Village and Pillage update, adding more Illagers and structures to the game.
+Scarecrows' Territory: Adds some scarecrows which will keep mob spawners active (you'll still need to keep the chunks loaded, use Chunk Loaders for that!)
+Screenshot Viewer: Allows you to view, edit, and delete screenshots in-game.
+Smooth Chunk Save: Reduces the amount of time taken to save chunks, especially on servers.
+Shrines Structures: Adds 50+ structures which make the world feel more lived-in.
+Shulker Drops Two: Shulkers will now drop 2 shells instead of one.
+Shutup Experimental Settings!: Disables the experimental settings warning when creating a world.
+Skin Layers 3D: Makes skins look 3D.
+Skinned Lanterns: Adds some new decorative lanterns.
+Smaller Nether Portals: Allows you to make Nether portals as small as 2x1 blocks wide.
+Smarter Farmers: Improves the Farmer Villager's AI, making them plant more logically, and adding support for modded crops.
+Snow Under Trees: When it snows, snow will appear under trees.
+Snow Real Magic: Makes snow fall, and can even rest on walls and fences.
+Snowballs Freeze Mobs: Read the title.
+So Many Enchants: Adds more enchants and increases the max. level of some Vanilla enchantments.
+Sophisticated Backpacks: Adds tiered backpacks with upgrades.
+Speedy Hoppers: Adds tiered hoppers which will move items faster.
+Speedy Ladders: Adds tiered ladders which increase climbing speed.
+Spice of Life: Sweet Potato Edition: Rewards you with passive buffs for eating larger and more variable meals.
+Structory: Adds more structres.
+Superflat World No Slimes: Prevents slimes from spawning in superflat worlds.
+Supplementaries: Adds new decorative blocks which are great for a variety of different styles.
+Tactical Fishing: Holding a bucket in your off-hand while fishing will place any fish caught into the bucket.
+Terralith: Datapack packaged as a mod which adds over 75 new biomes.
+Tips: Adds tips to aid your knowledge of the modpack.
+Toast Control: Allows you to select which toats will show on your screen.
+Tool Belt: Adds a tool belt to put you tools in and switch between quickly.
+Tool Leveling+: Allows you to upgrade your enchantment's level beyond it's normal maximum.
+Towns and Towers: Adds towns and towers. (and other structures)
+Trading Post: Adds a new block that allows you to trade with all villagers in a certain radius.
+Trample No More: When you have the Feather Falling enchantments on your boots, you won't trample farmland.
+TrashSlot: Adds a simple void slot to your inventory to get rid of junk without having to drop them on the ground.
+Tree Harvester: Allows you to chop down a whole tree by cutting the bottom log. (must be sneaking)
+Tumbleweed: Adds tumbleweeds to dry, hot biomes which might drop some valuble items when broken.
+Uncrafter: Adds 2 levels of uncrafter, the first will let you remove 3 items, the second allows you to remove all materials and even some enchants.
+Universal Enchants: Allows you to apply all enchants to all tools and armor pieces.
+Unstructured: Adds even more structures.
+Upgraded Netherite : Items: Adds netherite items like the netherite apple, and netherite totem.
+Upgraded Netherite : Ultimerite: Adds the final tier of netherite, allowing you to become very overpowered.
+Upgraded Netherite: Adds further tiers of netherite to upgrade to which each offer seperate perks when worn or used.
+Uppers: Allows you to turn hoppers into uppers, which can move items up.
+Valhelsia Structures: Adds more structures.
+Vein Mining: Adds a Vein Mining enchantment to apply to your tools.
+Void Totem: Adds a void totem to save you when you fall in the void.
+Waystones: Adds blocks which you can teleport between.
+What's That Slot?: Let's you see what items are allowed in a certain slot.
+When Dungeons Arise: Adds more dungeons to explore and defeat.
+Wither Eggs: Adds spawn eggs for mobs like the ender dragon and wither.
+Xaero's Minimap: Adds a minimap and allows you to put waypoints to find your way back to special spots.
+Xaero's World Map: Adds a world map to see wherever you've been in the world.
+YUNG's Better Structures Series: Improves tons of Vanilla structures.
+Zombie Villagers From Spawner: Allows zombie villagers to spawn in place of zombies in spawners.
+
+
+
+Library Mods:
+
+Architectury API (Fabric/Forge) (by shedaniel)
+AutoRegLib (by Vazkii)
+Balm (Forge Edition) (by BlayTheNinth)
+Blueprint (by TeamAbnormals)
+Bookshelf (by DarkhaxDev)
+Caelus API (Forge) (by TheIllusiveC4)
+Citadel (by sbom_xela)
+Cloth Config API (Fabric/Forge) (by shedaniel)
+CoFH Core (by TeamCoFH)
+Collective (by Serilum)
+CraftTweaker (by Jaredlll08)
+CreativeCore
+Curios API (Forge) (by TheIllusiveC4)
+Differentiate (by eltrutlikes)
+Entity Collision FPS Fix (by Corgi_Taco)
+Entity Culling Fabric/Forge (by tr9zw)
+ExpandAbility (by florensie)
+Feature NBT Deadlock Be Gone (by telepathicgrunt)
+FerriteCore (Forge) (by malte0811)
+FLIB (by Lothrazar)
+GeckoLib (by ThanosGecko)
+Iceberg [Forge] (by Grend_G)
+Item Filters (by LatvianModder)
+JEI Integration (by SnowShock35)
+JEITweaker (by Jaredlll08)
+Kiwi 🥝 (Forge) (by Snownee_)
+Kotlin for Forge (by thedarkcolour)
+Library Ferret - Forge (by jtl_elisa)
+LibX (by noeppinoeppi)
+Majrusz Library (by Majrusz17)
+Moonlight Lib (by MehVahdJukaar)
+Patchouli (by Vazkii)
+Placebo (by Shadows_of_Fire)
+Puzzles Lib [Forge & Fabric] (by Fuzs_)
+Sophisticated Core (by P3pp3rF1y)
+Structure Gel API (by ModdingLegacy)
+SuperMartijn642's Config Lib (by SuperMartijn642)
+SuperMartijn642's Core Lib (by SuperMartijn642)
+U Team Core (by HyCraftHD)
+Upgraded Core (by Rolfmao25)
+Valhelsia Core (by ValhelsiaTeam)
+YUNG's API (Forge) (by YUNGNICKYOUNG)
