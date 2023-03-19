@@ -18,4 +18,4 @@ Expected behavior:
 
 Modpack Version (eg. 1.2):
 Minecraft Version (eg.1.18.2):
-Please [attach](https://apexminecrafthosting.com/how-to-locate-local-crash-reports-logs/) a log and screenshots (if applicable) to help us fix the problem:
+Please attach a log and screenshots (if applicable) to help us fix the problem:
